@@ -4,19 +4,17 @@ body {
 } 
 
 .ryke {
-  margin-left: 20px;
+  margin: 0 auto;
+  align-items: center;
+  max-width: 500px;
+  height: auto;
+  width: 100%;
 }
 
 h1 {
   color: white;
   font-size: 50px;
   text-align: center;
-}
-
-.from, .to {
-  color: white;
-  height: 40px;
-  width: 30px;
-  padding: 16px;
-  margin: 25px;
+  te
+  width: 100%;
 }
